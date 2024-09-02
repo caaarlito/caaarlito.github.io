@@ -13,5 +13,7 @@ Possible applications include creating worldmaps to visualize indicators like di
 ## Free Data Science Book
 
 The book [ggplot2 Elegent Graphics for Data Analysis](https://ggplot2-book.org/) by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen published by Springer could be great way to start visualizing Big Data with R.
+
 I worked with R and ggplot2 before and its a great tool to analyze data and show the results in a quick and managable way. 
+
 By reading this book I could get an even better understanding of R and could refresh my memory. The github page for the book can be found [here](https://github.com/hadley/ggplot2-book).
